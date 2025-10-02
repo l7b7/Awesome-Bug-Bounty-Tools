@@ -7,7 +7,7 @@ A curated collection of the best tools for bug bounty hunting, penetration testi
 🔍 Reconnaissance
 Subdomain Enumeration
 
-Sublist3r - A fast subdomain enumeration tool that uses search engines and other online sources to find subdomains.
+[Sublist3r].(https://github.com/aboul3la/Sublist3r.git) - A fast subdomain enumeration tool that uses search engines and other online sources to find subdomains.
 
 
 Amass - An in-depth tool for network mapping and asset discovery, essential for understanding the attack surface.
