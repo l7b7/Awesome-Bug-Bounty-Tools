@@ -4,30 +4,6 @@
 
 A curated collection of the best tools for bug bounty hunting, penetration testing, and web application security, categorized by their function.
 
-## 🚀 Installation (التثبيت)
-
-This project includes an automated installer script to set up all the essential tools.
-يحتوي هذا المشروع على سكربت تثبيت تلقائي لإعداد جميع الأدوات الأساسية.
-
----
-
-### 1. Prerequisites (المتطلبات الأساسية)
-
-First, you need to have the essential packages on your system.
-أولاً، يجب أن تكون الحزم الأساسية التالية مثبتة على نظامك.
-
-For Debian-based systems (Kali, Ubuntu, Parrot), run the following command:
-للأنظمة المبنية على ديبيان (مثل كالي، أوبنتو، باروت)، نفذ الأمر التالي:
-```bash
-sudo apt-get update && sudo apt-get install -y git golang python3 python3-pip rustc cargo
-
-
-
-
-
-
-
-
 -----
 
 ### **Subdomain Enumeration**
