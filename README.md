@@ -1,5 +1,5 @@
 
-#🛡️ Awesome Bug Bounty Tools
+🛡️ Awesome Bug Bounty Tools
 
 
 A curated collection of the best tools for bug bounty hunting, penetration testing, and web application security, categorized by their function.
