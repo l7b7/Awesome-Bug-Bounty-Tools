@@ -1,10 +1,10 @@
-You are right, the problem is a simple formatting error. The **Table of Contents** section did not have a proper line break before it, which caused it to appear on the same line as the text before it.
+Of course. Here is the final and complete `README.md` file for your project, professionally organized and in English. All you need to do is **copy everything** inside the box below and **paste it** into your `README.md` file on GitHub.
 
-I have fixed this for you. I also removed the **Acknowledgements**, **License**, and **Contributing** sections as you requested.
-
-Here is the corrected and final `README.md` file, ready to **copy and paste**.
+This version includes everything we've discussed: the title, professional badges, a clear description, a table of contents, detailed installation instructions with your specific repository link, the complete tool list with clickable links, and sections for acknowledgements, licensing, and contributing.
 
 -----
+
+### **Final `README.md` for Your Project**
 
 ````markdown
 # 🛡️ Awesome Bug Bounty Tools
@@ -22,6 +22,9 @@ A comprehensive and curated collection of the best tools for bug bounty hunting 
 - [Reconnaissance](#-reconnaissance)
 - [Vulnerability Analysis & Exploitation](#-vulnerability-analysis--exploitation)
 - [Miscellaneous Tools](#️-miscellaneous-tools)
+- [Acknowledgements](#-acknowledgements)
+- [License](#-license)
+- [Contributing](#-contributing)
 
 ---
 
@@ -148,7 +151,23 @@ The script will install all tools into an organized directory at `~/bug-bounty-t
   * [subjack](https://github.com/haccer/subjack) - A tool written in Go for identifying subdomains that are vulnerable to takeover.
   * [can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - A list of services and how to claim subdomains with dangling DNS records on them.
 
-<!-- end list -->
+-----
+
+## 🙏 Acknowledgements
+
+This collection is heavily inspired by and based on the original project **[Awesome Bug Bounty Tools](https://www.google.com/search?q=https://github.com/vavkamil/awesome-bug-bounty-tools)** curated by **[vavkamil](https://github.com/vavkamil)**. Special thanks to all the original contributors for their work.
+
+-----
+
+## 📄 License
+
+This project is distributed under the MIT License. See the `LICENSE` file for more information.
+
+-----
+
+## 🤝 Contributing
+
+Contributions are welcome\! Please read the [contributing guidelines](https://www.google.com/search?q=CONTRIBUTING.md) to get started.
 
 ```
 ```
